@@ -14,4 +14,5 @@ Step 2. Update the <code>.json</code> file and run code with following command.<
 Step 3. Then open a web browser and run JavaScript Application (assuming you have a web server installed on the system).<br><br>
 <code>http://localhost/exercise_subscriber.html</code><br><br>
 Final output of the System<br><br>
-<img src="final_result.png" width="800px">
+<img src="final_result.png" width="800px"><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwZbspDpBmQ?si=8AuVwI_9IsQglM6C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
