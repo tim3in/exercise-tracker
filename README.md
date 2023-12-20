@@ -15,7 +15,8 @@ Step 3. Then open a web browser and run JavaScript Application (assuming you hav
 <code>http://localhost/exercise_subscriber.html</code><br><br>
 Final output of the System<br><br>
 <img src="final_result.png" width="800px"><br><br>
-<iframe width="420" height="315"
-src="https://youtu.be/uwZbspDpBmQ">
-</iframe>
+<video width="320" height="240" controls>
+  <source src="exercise_tracker_final.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+</video>
 
