@@ -14,9 +14,5 @@ Step 2. Update the <code>.json</code> file and run code with following command.<
 Step 3. Then open a web browser and run JavaScript Application (assuming you have a web server installed on the system).<br><br>
 <code>http://localhost/exercise_subscriber.html</code><br><br>
 Final output of the System<br><br>
-<img src="final_result.png" width="800px"><br><br>
-<video width="320" height="240" controls>
-  <source src="exercise_tracker_final.mp4" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
+<img src="exercise-tracker-animation.gif" width="800px"><br>
 
